@@ -105,9 +105,9 @@ body {
 
 #circle-3 {
   width: 250px;
-  height: 100px;
+  height: 80px;
   border-radius: 150px;
-  margin: 520px 360px;
+  margin: 490px 360px;
   position: absolute;
   overflow: hidden;
   z-index: -1;
@@ -159,6 +159,12 @@ body {
     width: 150px;
     height: 150px;
     margin: 50px 250px;
+  }
+
+  #circle-3 {
+    width: 250px;
+    height: 80px;
+    margin: 520px 150px;
   }
 
 }
