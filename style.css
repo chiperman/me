@@ -31,6 +31,9 @@ body {
 }
 
 .title {
+  background: linear-gradient(94.23deg, #5374fa 12.41%, #fd9179 52.55%, #ff6969 89.95%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
   font-size: 64px;
   font-weight: 700;
 }
