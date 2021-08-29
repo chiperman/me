@@ -6,6 +6,15 @@ body {
   margin: 0px;
 }
 
+
+.background_maker {
+  position: absolute;
+
+  z-index: -1;
+  width: 100px;
+  height: 100px;
+}
+
 .wrapper {
   display: flex;
   justify-content: center;
