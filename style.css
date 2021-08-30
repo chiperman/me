@@ -50,7 +50,7 @@ body {
 
 .description {
   font-size: 28px;
-  color: #828282;
+  color: #000000;
   line-height: 40px;
 
 }
@@ -109,6 +109,9 @@ body {
 
 }
 
+.footer {
+  font-size: 18px;
+}
 
 
 /* generic mobile devices */
@@ -148,7 +151,7 @@ body {
   .description {
     font-size: 18px;
     line-height: 28px;
-    color: grey;
+    color: #000000;
     padding: 8px 10px 8px 10px;
   }
 
