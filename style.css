@@ -6,6 +6,7 @@ body {
   align-items: center;
   position: absolute;
   margin: 0;
+  font-family: 'Avenir', sans-serif;
 }
 
 .wrapper {
@@ -177,6 +178,10 @@ body {
   }
 
   .link-item {
+    padding: 8px 10px 8px 10px;
+  }
+
+  .footer {
     padding: 8px 10px 8px 10px;
   }
 
